@@ -1,0 +1,18 @@
+# Build outputs
+bin/
+obj/
+
+# User/editor files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS files
+.DS_Store
+
+# Python env
+.venv/
+
+# Logs
+*.log
